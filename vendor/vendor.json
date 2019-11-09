@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "7Z8kodwrFTBqG4SS6PedfvWieFM=",
+			"path": "github.com/creack/goselect",
+			"revision": "c98c4e62c41618cf78d3ff759af0d4dbaa677748",
+			"revisionTime": "2019-04-25T18:50:09Z"
+		},
+		{
+			"checksumSHA1": "lmR6c50iyl4rXMFwEraI7SdY8Uw=",
+			"path": "go.bug.st/serial.v1",
+			"revision": "5f7892a7bb453066bdc6683b9b5d24d9dee03ec1",
+			"revisionTime": "2018-08-27T12:33:49Z"
+		},
+		{
+			"checksumSHA1": "/wHbc+4LplY/2VZ/U14vsFgSwAs=",
+			"path": "go.bug.st/serial.v1/enumerator",
+			"revision": "5f7892a7bb453066bdc6683b9b5d24d9dee03ec1",
+			"revisionTime": "2018-08-27T12:33:49Z"
+		},
+		{
+			"checksumSHA1": "VHSRiTzSHrOQd4HeUhRQNNUlhkg=",
+			"path": "go.bug.st/serial.v1/unixutils",
+			"revision": "5f7892a7bb453066bdc6683b9b5d24d9dee03ec1",
+			"revisionTime": "2018-08-27T12:33:49Z"
+		},
+		{
+			"checksumSHA1": "3MIBhaOhlaGUd/C7WtWDnS3JWSc=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "c1f44814a5cd81a6d1cb589ef1e528bc5d305e07",
+			"revisionTime": "2019-11-05T10:44:00Z"
+		},
+		{
+			"checksumSHA1": "N7D0POtGHj3TJHJ51eD6RUS849g=",
+			"path": "golang.org/x/sys/windows",
+			"revision": "c1f44814a5cd81a6d1cb589ef1e528bc5d305e07",
+			"revisionTime": "2019-11-05T10:44:00Z"
+		}
+	],
+	"rootPath": "github.com/caiguanhao/CustomerDisplay"
+}
